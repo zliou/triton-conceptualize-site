@@ -54,6 +54,16 @@ a:hover {
   border:none;
   margin-top: 10px;
 }
+.btn-yellow {
+  padding: 12px 45px;
+  background: #FFCD00;
+  color: #182B49;
+  font-weight: 600;
+  border-radius: 0px;
+  border:none;
+  margin-top: 10px;
+}
+	
 	
 .text-center h2 {
 	margin-bottom:30px;
@@ -178,7 +188,7 @@ a:hover {
 }
 
 #main-slider .carousel .slide-margin{
-  margin-top: 140px;
+  margin-top: 170px;
 }
 
 #main-slider .carousel h2 {
@@ -796,6 +806,11 @@ a.btn-primary:hover {
 	color:#182B49;
 }
 
+a.btn-yellow:hover {
+	background-color:#e8ba00;
+	color:#182B49;
+}
+
 .widget {
   margin-bottom: 60px;
   padding-left: 0;
@@ -1191,3 +1206,26 @@ a.scrollup:hover{
 	background-color:#ddd;
 	color:#182B49;
 }
+
+
+
+.splash-h2{
+  margin-bottom:30px; text-shadow: 0px 0px 30px black;
+}
+
+.splash-p1{
+  color:white !important; 
+  font-weight:400; 
+  font-size: 35px; 
+  text-shadow: 0px 0px 4px black;
+  
+}
+
+.splash-p2{
+  color:white !important; 
+  margin-top:30px;
+  font-size: 20px; 
+  text-shadow: 0px 0px 4px black;
+line-height: 30px;
+}
+
