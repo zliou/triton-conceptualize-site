@@ -1253,11 +1253,13 @@ line-height: 30px;
 .get-involved-students-column{
     background-color: #0071b5;
     min-height: 650px;
+    padding-top: 10px;
 }
 
 .get-involved-orgs-column{
     background-color: #e6972d;
-    min-height: 650px;
+    /*min-height: 650px;*/
+    padding-top: 10px;
 }
 
 .get-involved-btn{
@@ -1265,4 +1267,6 @@ line-height: 30px;
     bottom: 0%;
     left: 25%;
     width: 50%;
+    padding-left: 0px;
+    padding-right: 0px;
 }
