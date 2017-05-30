@@ -57,14 +57,13 @@ a:hover {
 .btn-yellow {
   padding: 12px 45px;
   background: #FFCD00;
-  color: #182B49;
+  color: #182B49 !important;
   font-weight: 600;
   border-radius: 0px;
   border:none;
   margin-top: 10px;
 }
-	
-	
+
 .text-center h2 {
 	margin-bottom:30px;
 }
