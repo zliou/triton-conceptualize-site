@@ -5,3 +5,8 @@ San Diego that provides technical development services for San Diego non-profit
 organizations.
 
 This is the repository for the webpage of Triton Conceptualize.
+
+To access tc.ucsd.edu:
+1. ssh into tc@acsweb.ucsd.edu
+2. Use password on the passwords sheets
+3. cd into public_html
